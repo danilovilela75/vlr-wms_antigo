@@ -1,0 +1,15 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	outline: 0px;
+	box-sizing: border-box;
+}
+
+html, body {
+	min-height: 100%;
+}
+
+body {
+	background: #ded url('../img/230464.jpg') no-repeat;
+	background-size: cover;
+}
